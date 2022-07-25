@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Hello world!!
 Buena master!!! (editado por Claudio)
 =======
 Hello world!! - modificado por joaco
->>>>>>> c8b2825f13f42356d79adff97127374affa99b5a
